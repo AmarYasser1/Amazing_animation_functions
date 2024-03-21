@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Exciting animation functions\Exciting animation functions\Source.cpp(297,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Exciting animation functions.vcxproj -> C:\Users\User\source\repos\Exciting animation functions\x64\Debug\Exciting animation functions.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
