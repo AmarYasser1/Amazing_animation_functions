@@ -23,7 +23,7 @@
     }
 
 #else
-#define Amar(condition, message)
+#define AmarYasserDebug(condition, message)
 #endif
 using namespace std;
 void hideCursor() { cout << "\033[?25l"; }
